@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.record="http:///orgomg/cwm/resource/record.ecore">
+  <TalendMetadata:DelimitedFileConnection xmi:id="_Du0HocY3Ee6_LIVoB9FFOA" name="text" dataPackage="_Du0HosY3Ee6_LIVoB9FFOA" Server="Localhost 127.0.0.1" FilePath="D:/210911344/text.csv" Format="WINDOWS" Encoding="UTF-8" FieldSeparatorValue="&quot;,&quot;" RowSeparatorValue="&quot;\n&quot;" UseHeader="true" HeaderValue="1" FirstLineCaption="true" FieldSeparatorType="Comma"/>
+  <orgomg.cwm.resource.record:RecordFile xmi:id="_Du0HosY3Ee6_LIVoB9FFOA" name="default" dataManager="_Du0HocY3Ee6_LIVoB9FFOA">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_Du0Ho8Y3Ee6_LIVoB9FFOA" id="_ypzugMY2Ee6_LIVoB9FFOA" label="metadata">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_Du0HpMY3Ee6_LIVoB9FFOA" label="ISBN" length="-1" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_Du0HpcY3Ee6_LIVoB9FFOA" label="Title" length="37" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_Du0HpsY3Ee6_LIVoB9FFOA" label="Publisher" length="15" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_Du0Hp8Y3Ee6_LIVoB9FFOA" label="Author" length="18" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+    </ownedElement>
+  </orgomg.cwm.resource.record:RecordFile>
+</xmi:XMI>

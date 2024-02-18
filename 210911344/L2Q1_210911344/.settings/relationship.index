@@ -1,0 +1,16 @@
+[ {
+  "baseItem" : {
+    "id" : "__XUG8Ls1Ee66sqimiO-puA",
+    "version" : "1.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_1Lcd8Ls3Ee66sqimiO-puA",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_1Lcd8Ls3Ee66sqimiO-puA - hospital",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+} ]

@@ -1,0 +1,48 @@
+[ {
+  "baseItem" : {
+    "id" : "_d9DBAMY1Ee6_LIVoB9FFOA",
+    "version" : "1.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_8fR0QMY1Ee6_LIVoB9FFOA",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_Du0HoMY3Ee6_LIVoB9FFOA",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_WprEkMY2Ee6_LIVoB9FFOA",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_hlX9IMY2Ee6_LIVoB9FFOA",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_pd-REMY2Ee6_LIVoB9FFOA",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_8fR0QMY1Ee6_LIVoB9FFOA - metadata",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_Du0HoMY3Ee6_LIVoB9FFOA - metadata",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_WprEkMY2Ee6_LIVoB9FFOA - metadata",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_hlX9IMY2Ee6_LIVoB9FFOA - metadata",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_pd-REMY2Ee6_LIVoB9FFOA - metadata",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+} ]

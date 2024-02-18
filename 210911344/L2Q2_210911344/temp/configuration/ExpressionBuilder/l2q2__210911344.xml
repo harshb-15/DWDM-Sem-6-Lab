@@ -1,0 +1,13 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<expression:EMFExpression xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:expression="http:///expression.ecore" id="tMap_2=>" expression="row4.Course_Id">
+  <variables name="row2.RegNO" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row2.Name" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row2.Major" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row2.Bdate" value="null" talendType="id_Date" nullable="true"/>
+  <variables name="row3.RegNo" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row3.Course_Id" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row3.Marks" value="null" talendType="id_Integer" nullable="true"/>
+  <variables name="row4.Course_Id" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row4.Cname" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row4.dept" value="null" talendType="id_String" nullable="true"/>
+</expression:EMFExpression>
